@@ -1,4 +1,5 @@
 # WAH-Project
 Game Dev Club Game
 
-imagine not summoning h!mia on your first colorless orb
+# Game Info
+Platformer that uses auto-scrolling for advancement. To be made in Unity and C#.
